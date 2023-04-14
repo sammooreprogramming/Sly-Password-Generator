@@ -10,6 +10,6 @@ I learned of the importance of backend code, and that I enjoy the process of lea
 
 Github Repository - https://github.com/sammooreprogramming/Sly-Password-Generator
 
-Deployed at - 
+Deployed at - https://sammooreprogramming.github.io/Sly-Password-Generator/
 
-Published Screenshot - ![Screenshot](.jpg)
+Published Screenshot - ![Screenshot](images\Screenshot.png)
