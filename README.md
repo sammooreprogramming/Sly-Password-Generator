@@ -12,4 +12,4 @@ Github Repository - https://github.com/sammooreprogramming/Sly-Password-Generato
 
 Deployed at - https://sammooreprogramming.github.io/Sly-Password-Generator/
 
-Published Screenshot - ![Screenshot](images\Screenshot.png)
+Published Screenshot - ![Screenshot](images/Screenshot.png)
